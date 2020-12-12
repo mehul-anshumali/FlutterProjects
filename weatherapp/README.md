@@ -1,6 +1,10 @@
-# weatherapp
+# PortFolio App
 
-A new Flutter project.
+A simple weather flutter app UI.
+
+## Demo
+
+<img src="https://github.com/mehul-anshumali/FlutterProjects/blob/main/weatherapp/screenshot/Screenshot_1606200343.png" height="620px">
 
 ## Getting Started
 
