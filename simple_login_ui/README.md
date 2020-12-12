@@ -4,7 +4,7 @@ A simple animal planet UI.
 
 ## Demo
 
-<img src="https://github.com/mehul-anshumali/FlutterProjects/blob/main/simple_login_ui/screenshots/Screenshot_1607783351.png" height="620px"> <img src="https://github.com/mehul-anshumali/FlutterProjects/blob/main/simple_login_ui/screenshots/Screenshot_1607783351.png" height="620px"> 
+<img src="https://github.com/mehul-anshumali/FlutterProjects/blob/main/simple_login_ui/screenshots/Screenshot_1607783351.png" height="620px"> <img src="https://github.com/mehul-anshumali/FlutterProjects/blob/main/simple_login_ui/screenshots/Screenshot_1607783355.png" height="620px"> 
 
 
 ## Getting Started
