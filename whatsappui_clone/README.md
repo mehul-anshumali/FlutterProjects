@@ -1,6 +1,10 @@
-# whatsappui_clone
+# WhatsApp UI
 
-A new Flutter project.
+A WhatsApp UI.
+
+## Demo
+
+<img src="https://github.com/mehul-anshumali/FlutterProjects/blob/main/whatsappui_clone/screenshots/chatScreen.png" height="620px"> <img src="https://github.com/mehul-anshumali/FlutterProjects/blob/main/whatsappui_clone/screenshots/messageScreen.png" height="620px"> <img src="https://github.com/mehul-anshumali/FlutterProjects/blob/main/whatsappui_clone/screenshots/statusScreen.png" height="620px"> <img src="https://github.com/mehul-anshumali/FlutterProjects/blob/main/whatsappui_clone/screenshots/callScreen.png" height="620px">
 
 ## Getting Started
 
